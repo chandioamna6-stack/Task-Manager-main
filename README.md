@@ -127,7 +127,7 @@ Use this to log in to the admin panel:
 
 ## License
 
-Add your preferred license here (e.g., MIT). If you don't have one yet, add a `LICENSE` file to the repository.
+This project is licensed under the [MIT License](./LICENSE) — see the LICENSE file for details.
 
 ---
 
